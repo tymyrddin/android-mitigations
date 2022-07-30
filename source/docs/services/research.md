@@ -9,4 +9,7 @@ are probably fake ones.
 claims to do, it could be fake or malicious. Unwanted in any case.
 * Search the internet for more information on the app.
 * Scan with an online virusscanner that accepts url's before installing.
-* If you decide to install an untrusted app, block internet access for the app. 
+* If you decide to install an untrusted app, block internet access for the app.
+
+To report an app, go to the app page on Google Play Store. Click the three dots in the top-right corner and click 
+"Flag as inappropriate". For fake apps, you can choose copycat or impersonation as reason, and submit.
