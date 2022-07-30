@@ -1,4 +1,8 @@
 # Introduction
 
 * [Research each app thorougly before installing](research.md)
-* [Remove unwanted third party apps](uap.md)
+* [Application stores](app-stores.md)
+* [Unwanted apps list](unwanted-apps.md)
+* [Remove unwanted third party apps](remove-apps.md)
+* [Secure browsers that protect your privacy](browsers.md)
+* [Change your default apps](default-apps.md)
