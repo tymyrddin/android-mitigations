@@ -10,4 +10,4 @@ ID to build profiles or to show you personalised ads.
 Note: If you disable Ads personalisation you will still be forced to see ads, but they will not be customised for 
 maximum impact on you. 
 
-And if you clear your cache, it will automatically turn Ads personalisation back on.
+And if you clear your cache, it will automatically turn "Ads Personalization" back on.
