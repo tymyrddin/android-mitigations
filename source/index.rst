@@ -1,6 +1,10 @@
 Android mitigations
 ================================================
 
+Version 0.1: These mitigations are kept as simple as possible, with tools found in most Androids. Some things are harder
+to cover. For example, each manufacturer has its own privacy settings somewhere, and there are even stock versions of
+Android with one that doesn’t report everything you do to Google.
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -49,6 +53,7 @@ Android mitigations
    docs/privacy/location.md
    docs/privacy/activity-controls.md
    docs/privacy/personalised-ads.md
+   docs/privacy/alternatives.md
 
 .. toctree::
    :glob:
