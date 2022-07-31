@@ -8,9 +8,20 @@ such restrictions.
 
 A VPN will encrypt the connection and make the traffic unreadable.
 
-* [NordVPN](https://nordvpn.com)
-* [ExpressVPN](https://www.expressvpn.com)
-* [Surfshark VPN](https://surfshark.com/)
+## No logs policy
+
+Meaning, not logging traffic, DNS requests, timestamps, bandwidth, IP address.
+
+* [NordVPN](https://nordvpn.com), Panama
+* [Mullvad](https://mullvad.net/), Sweden
+* [IVPN](https://www.ivpn.net/), Gibraltar
+* [Surfshark VPN](https://surfshark.com/), Netherlands
+
+## Logs timestamps and bandwidth
+
+Does not log directly identifiable information.
+
+* [ExpressVPN](https://www.expressvpn.com) 
 
 ## Papers
 
