@@ -6,3 +6,4 @@
 * [Remove unwanted third party apps](remove-apps.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Change your default apps](default-apps.md)
+* [Use a VPN service](vpn.md)

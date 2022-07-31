@@ -25,6 +25,7 @@ Android mitigations
    docs/services/remove-apps.md
    docs/services/browsers.md
    docs/services/default-apps.md
+   docs/services/vpn.md
 
 .. toctree::
    :glob:
