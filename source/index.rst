@@ -2,8 +2,8 @@ Android mitigations
 ================================================
 
 Version 0.1: These mitigations are kept as simple as possible, with tools found in most Androids. Some things are harder
-to cover. For example, each manufacturer has its own privacy settings somewhere, and there are even stock versions of
-Android with one that doesn’t report everything you do to Google.
+to cover. For example, each manufacturer has its own privacy settings somewhere, and there are even a growing number of
+alternatives that do not report everything you do to Google.
 
 .. toctree::
    :glob:
