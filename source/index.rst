@@ -26,6 +26,7 @@ Android mitigations
    docs/services/browsers.md
    docs/services/default-apps.md
    docs/services/vpn.md
+   docs/services/messaging.md
 
 .. toctree::
    :glob:
