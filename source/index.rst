@@ -27,9 +27,9 @@ alternatives that do not report everything you do to Google.
    docs/services/research.md
    docs/services/unwanted-apps.md
    docs/services/remove-apps.md
+   docs/services/vpn.md
    docs/services/browsers.md
    docs/services/default-apps.md
-   docs/services/vpn.md
    docs/services/messaging.md
 
 .. toctree::
