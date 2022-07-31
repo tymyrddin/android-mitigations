@@ -6,6 +6,8 @@ and it is cross-platform, hence an often chosen target. Plus that browsers (for 
 users to more security risks by downloading more pages, or from un-requested sites (additionally compounded as drive-by 
 downloads become more advanced and diverse).
 
+BeEF & other browser exploits, when not using browser vulnerabilities, rely on javascript.
+
 * [Choose a secure browsers that protect your privacy](../services/browsers.md)
 * [Change your default browser](../services/default-apps.md)
 

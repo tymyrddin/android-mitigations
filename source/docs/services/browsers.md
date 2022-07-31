@@ -6,3 +6,4 @@ protection, while also giving you access to numerous add-ons and extensions.
 * [Bromite](https://www.bromite.org/) is a Chromium-based browser for Android only (no desktop support). It comes with some great features by default, including ad blocking and various privacy enhancements.
 * [LibreWolf](https://librewolf.net/) is a fork of Firefox focused on privacy, security, and freedom, only available for desktop operating systems.
 
+If the browser you choose is not secure and privacy-friendly, [lock down the browser and the software it can invoke](data-mitigations:docs/browsing/README).
