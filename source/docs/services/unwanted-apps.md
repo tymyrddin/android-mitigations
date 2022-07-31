@@ -31,5 +31,5 @@ that keeps giving. Remove Poco Launcher, 4K Pro Camera and Heart Emoji Stickers 
 
 ## Articles
 
-* [Has the antivirus industry gone mad?](Has the antivirus industry gone mad?)
+* [Has the antivirus industry gone mad?](https://blog.emsisoft.com/en/11550/has-the-antivirus-industry-gone-mad/)
 * [AVG can sell your browsing and search history to advertisers](https://www.wired.co.uk/article/avg-privacy-policy-browser-search-data)
