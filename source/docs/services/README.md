@@ -8,6 +8,7 @@
 * [Secure browsers that protect your privacy](browsers.md)
 * [Change your default apps](default-apps.md)
 * [Use a secure messaging service](messaging.md)
+* [Use a secure email service](email-services.md)
 
 ## Related attack trees
 

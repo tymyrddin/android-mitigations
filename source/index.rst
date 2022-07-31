@@ -31,6 +31,7 @@ alternatives that do not report everything you do to Google.
    docs/services/browsers.md
    docs/services/default-apps.md
    docs/services/messaging.md
+   docs/services/email-services.md
 
 .. toctree::
    :glob:
@@ -53,6 +54,7 @@ alternatives that do not report everything you do to Google.
    docs/privacy/location.md
    docs/privacy/activity-controls.md
    docs/privacy/personalised-ads.md
+   docs/privacy/email-use.md
    docs/privacy/alternatives.md
 
 .. toctree::
@@ -73,7 +75,8 @@ alternatives that do not report everything you do to Google.
    :caption: Social engineering
 
    docs/social-engineering/README.md
-   docs/social-engineering/*
+   docs/social-engineering/browsing.md
+   docs/social-engineering/check-mail.md
 
 .. toctree::
    :caption: Links
