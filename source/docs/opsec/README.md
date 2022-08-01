@@ -3,6 +3,7 @@
 * [Use email securely](email-use.md)
 * [Detecting fake emails and phishing](check-mail.md)
 * [Browse more safely](browsing.md)
+* [Measure Internet Censorship](ooni.md)
 
 ## Fail
 
