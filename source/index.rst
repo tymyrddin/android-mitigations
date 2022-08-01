@@ -31,6 +31,7 @@ alternatives that do not report everything you do to Google.
    docs/services/default-apps.md
    docs/services/messaging.md
    docs/services/email-services.md
+   docs/services/ssh.md
    docs/services/vpn.md
    docs/services/tor-proxy.md
 
