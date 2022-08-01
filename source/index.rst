@@ -76,6 +76,8 @@ alternatives that do not report everything you do to Google.
    :caption: Operations security
 
    docs/opsec/README.md
+   docs/opsec/juice-jack.md
+   docs/opsec/autojoin.md
    docs/opsec/email-use.md
    docs/opsec/check-mail.md
    docs/opsec/browsing.md
