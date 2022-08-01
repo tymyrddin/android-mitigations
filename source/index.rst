@@ -27,11 +27,12 @@ alternatives that do not report everything you do to Google.
    docs/services/research.md
    docs/services/unwanted-apps.md
    docs/services/remove-apps.md
-   docs/services/vpn.md
    docs/services/browsers.md
    docs/services/default-apps.md
    docs/services/messaging.md
    docs/services/email-services.md
+   docs/services/vpn.md
+   docs/services/tor-proxy.md
 
 .. toctree::
    :glob:
@@ -54,7 +55,6 @@ alternatives that do not report everything you do to Google.
    docs/privacy/location.md
    docs/privacy/activity-controls.md
    docs/privacy/personalised-ads.md
-   docs/privacy/email-use.md
    docs/privacy/alternatives.md
 
 .. toctree::
@@ -72,11 +72,21 @@ alternatives that do not report everything you do to Google.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Social engineering
+   :caption: Operations security
 
-   docs/social-engineering/README.md
-   docs/social-engineering/browsing.md
-   docs/social-engineering/check-mail.md
+   docs/opsec/README.md
+   docs/opsec/email-use.md
+   docs/opsec/check-mail.md
+   docs/opsec/browsing.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Guards! Guards!
+
+   docs/guards/README.md
+   docs/guards/*
 
 .. toctree::
    :caption: Links

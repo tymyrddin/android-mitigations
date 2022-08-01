@@ -4,11 +4,12 @@
 * [Application stores](app-stores.md)
 * [Unwanted apps list](unwanted-apps.md)
 * [Remove unwanted third party apps](remove-apps.md)
-* [Use a VPN service](vpn.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Change your default apps](default-apps.md)
 * [Use a secure messaging service](messaging.md)
 * [Use a secure email service](email-services.md)
+* [Use a VPN service](vpn.md)
+* [Use a Tor proxy](tor-proxy.md)
 
 ## Related attack trees
 
