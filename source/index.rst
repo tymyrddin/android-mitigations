@@ -82,6 +82,7 @@ alternatives that do not report everything you do to Google.
    docs/opsec/check-mail.md
    docs/opsec/browsing.md
    docs/opsec/ooni.md
+   docs/opsec/*
 
 .. toctree::
    :glob:
