@@ -11,6 +11,8 @@
 * [Use SSH tunnels](ssh.md)
 * [Use a VPN service](vpn.md)
 * [Use a Tor proxy](tor-proxy.md)
+* [Change MAC address](change-mac.md)
+* [Edit hosts file](edit-hosts-file.md)
 
 ## Related attack trees
 

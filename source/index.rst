@@ -34,6 +34,8 @@ alternatives that do not report everything you do to Google.
    docs/services/ssh.md
    docs/services/vpn.md
    docs/services/tor-proxy.md
+   docs/services/change-mac.md
+   docs/services/edit-hosts-file.md
 
 .. toctree::
    :glob:
