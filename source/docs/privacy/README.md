@@ -7,7 +7,3 @@
 * [Terminate ad personalisation](personalised-ads.md)
 * [Stock versions specialised in privacy](alternatives.md)
 
-## Related threat model
-
-* [Deanonymisation](https://tymyrddin.github.io/da-threat-model/)
-* [Reconnaissance](attack-trees:docs/reconnaissance/README)

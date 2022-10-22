@@ -23,4 +23,3 @@ all SSH commands, and fully supports persistent connections, key management, and
 
 * [Google Play Store ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot)
 * [F-Droid ConnectBot](https://f-droid.org/en/packages/org.connectbot/)
-* [Linux mitigations: Use SSH tunnels](linux-pc-mitigations:docs/services/ssh)

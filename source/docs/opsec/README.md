@@ -11,7 +11,3 @@
 ## Fail
 
 Can happen of course. [Clean machine](../malware/README.md).
-
-## Related attack trees
-
-* [Social engineering](attack-trees:docs/social-engineering/README)
