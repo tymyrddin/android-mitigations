@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Android mitigations'
+project = 'Hardening Android'
 copyright = '2022, TyMyrddin'
 author = 'TyMyrddin'
 
@@ -66,7 +66,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Android mitigations"
+html_title = "Hardening Android"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
