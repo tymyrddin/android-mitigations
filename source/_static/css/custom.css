@@ -34,3 +34,7 @@ a:hover {
   background: #333;
   color: #ddd;
 }
+
+.rst-content code.literal, .rst-content tt.literal {
+  color: #0066DD;
+}
