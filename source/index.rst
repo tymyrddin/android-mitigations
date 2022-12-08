@@ -98,4 +98,4 @@ alternatives that do not report everything you do to Google.
 .. toctree::
    :caption: Links
 
-   All mitigations <https://tymyrddin.github.io/mitigations/>
+   All mitigations <https://blue.tymyrddin.dev/>
