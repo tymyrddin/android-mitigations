@@ -94,8 +94,3 @@ alternatives that do not report everything you do to Google.
 
    docs/guards/README.md
    docs/guards/*
-
-.. toctree::
-   :caption: Links
-
-   All mitigations <https://blue.tymyrddin.dev/>
