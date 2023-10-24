@@ -8,5 +8,5 @@ On a new phone, don't turn it on. If you are already using it, you can stop Goog
 This will not keep apps from using location information from your device, but it will stop Google from filling up their 
 databases with a detailed profile of your movements.
 
-* Go to Privacy settings -> Google location history. This takes you to the Location History page of your Google account.
-* Pause Location History
+* Go to ***Privacy settings -> Google location history***. This takes you to the ***Location History*** page of your Google account.
+* Pause ***Location History***.

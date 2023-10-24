@@ -1,9 +1,9 @@
 Hardening Android
 ================================================
 
-These mitigations are kept as simple as possible, with tools found in most Androids. Some things are harder
-to cover. For example, each manufacturer has its own privacy settings somewhere, and there are even a growing number of
-alternatives that do not report everything you do to Google.
+These mitigations to `common mobile threats <https://pap.tymyrddin.dev/>`_ are kept as simple as possible, with tools found in most Androids and online.
+
+Other things are harder to cover. For example, each manufacturer has its own privacy settings somewhere, and there is a growing number of alternative apps that do not report everything you do to Google.
 
 .. toctree::
    :glob:
@@ -69,7 +69,6 @@ alternatives that do not report everything you do to Google.
    docs/malware/README.md
    docs/malware/scanner.md
    docs/malware/clean-machine.md
-   docs/malware/analysing-trojans.md
 
 .. toctree::
    :glob:

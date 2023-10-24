@@ -13,7 +13,3 @@ your device can:
 * Tap an app you don’t absolutely need to have on your device.
 * At the bottom, tap Uninstall. OK to uninstall the app.
 * Repeat for each app you can do without.
-
-## Change default apps
-
-

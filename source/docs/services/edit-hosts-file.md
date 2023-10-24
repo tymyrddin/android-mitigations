@@ -15,10 +15,7 @@ If your device is infected with malware, then your hosts file may be compromised
 domain names. *That* is NOT the IP address of your bank! This type of DNS attack is known as DNS pharming, and checking 
 your `hosts` file can uncover potential infection.
 
-For Android there is a way using [Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb), 
-a command-line utility included with Google’s Android SDK. `adb` can control a device over USB from a computer, copy 
-files back and forth, install and uninstall apps, run shell commands, etc. It is part of the 
-[SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
+For Android there is a way using [Android Debug Bridge (adb)](https://testlab.tymyrddin.dev/docs/mobile/adb):
 
 1. Open a terminal window.
 2. Pull the hosts file out of the phone to your PC.

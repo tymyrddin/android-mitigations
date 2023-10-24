@@ -7,5 +7,5 @@ for, "improving our products and services."
 Sending this data to the manufacturer is optional, and can be considered a voluntary privacy leak. A default opt-in.
 To opt-out:
 
-* Go to the Privacy settings, and look for a Send diagnostic data option.
-* Make sure it is set to Off.
+* Go to the ***Privacy*** settings, and look for a ***Send diagnostic data*** option.
+* Make sure it is set to ***Off***.

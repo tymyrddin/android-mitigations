@@ -8,10 +8,10 @@ stuff.
 
 On a new phone do not turn it on. If you already have, and want out:
 
-* Go to Privacy settings -> Activity Controls. You will see a screen full of the kinds of things that Google tracks, 
+* Go to ***Privacy settings -> Activity Controls***. You will see a screen full of the kinds of things that Google tracks, 
 along with a pitch on why them tracking this information is good for you.
-* Turn off Web & App Activity. Google will give you a long message trying to convince you to let them keep tracking you. 
+* Turn off ***Web & App Activity***. Google will give you a long message trying to convince you to let them keep tracking you. 
 This does not put an end to Google collecting this data on you. It only pauses the collection. Nor will this delete 
 the data Google has already collected on you. To delete the data Google has already collected in the Web & App Activity 
 category, go to myactivity.google.com.
-* Repeat for YouTube History.
+* Repeat for ***YouTube History***.
