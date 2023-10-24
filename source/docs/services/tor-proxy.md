@@ -1,13 +1,10 @@
 # Use a Tor proxy
 
-[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) is a free tor proxy app. 
-It encrypts your Internet traffic and then hides it by bouncing through a series of 
-computers around the world. Tor is free software and an open network that helps you defend against a form of network 
-surveillance that threatens personal freedom and privacy, private activities and relationships, and state security 
+[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) is a free tor proxy app. It encrypts your Internet traffic and then hides it by bouncing through a series of 
+computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, private activities and relationships, and state security 
 known as traffic analysis.
 
-If you wish to get it from F-droid and not the Play Google store, you will need to enable the Guardian repository in 
-the F-Droid settings to have the Orbot app (and other apps like Tor Browser) show up. 
+If you wish to get it from F-droid and not the Play Google store, you will need to enable the Guardian repository in the F-Droid settings to have the Orbot app (and other apps like Tor Browser) show up. 
 
 ## Notes
 

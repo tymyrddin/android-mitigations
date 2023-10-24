@@ -77,10 +77,10 @@ Other things are harder to cover. For example, each manufacturer has its own pri
    :caption: Operations security
 
    docs/opsec/README.md
+   docs/opsec/vectors.md
    docs/opsec/juice-jack.md
    docs/opsec/autojoin.md
    docs/opsec/email-use.md
-   docs/opsec/check-mail.md
    docs/opsec/browsing.md
    docs/opsec/ooni.md
    docs/opsec/*
