@@ -1,10 +1,8 @@
 # Use a VPN service
 
-* Internet providers are collecting your browsing data and handing this over to third parties (US, UK, Australia, 
-and much of Europe). 
+* Internet providers are collecting your browsing data and handing this over to third parties (US, UK, Australia, and much of Europe). 
 * Public Wi-Fi remains a serious threat with adversaries targeting unsuspecting users.
-* Many streaming services and websites restrict content to certain geographic locations. A VPN allows you to bypass 
-such restrictions.
+* Many streaming services and websites restrict content to certain geographic locations. A VPN allows you to bypass such restrictions.
 
 A VPN will encrypt the connection and make the traffic unreadable.
 

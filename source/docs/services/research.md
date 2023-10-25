@@ -7,11 +7,11 @@ are probably fake ones.
 * Look at the number of downloads.
 * Take a close look at the permissions the app is asking for. 
   * Scroll down the page, past the reviews to the Additional Information section.
-  * Under Permissions, tap View Details. Google Play will list all the permissions requested by the app.
-  * If they’re unrelated to the app’s function or what it claims to do, it could be fake or malicious. Unwanted in any case.
+  * Under ***Permissions***, tap ***View Details***. Google Play will list all the permissions requested by the app.
+  * If they are unrelated to the app's function or what it claims to do, it could be fake or malicious. Unwanted in any case.
 * Search the internet for more information on the app.
 * Scan with an online virusscanner that accepts url's before installing.
-* If you decide to install an untrusted app, block internet access for the app.
+* If you decide to install an untrusted app, block internet access for the app. If it needs it, monitor its behaviour.
 
 To report an app, go to the app page on Google Play Store. Click the three dots in the top-right corner and click 
-"Flag as inappropriate". For fake apps, you can choose copycat or impersonation as reason, and submit.
+***Flag as inappropriate***. For fake apps, you can choose copycat or impersonation as reason, and submit.

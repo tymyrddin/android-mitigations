@@ -6,13 +6,13 @@ Pick the default app you wish to change, for example, for your bowser you can [p
 
 * Install your replacement app.
 * You will be asked if you want to make it your default. Yes.
-* In the next window, tap to select it and tap make default.
+* In the next window, tap to select it and tap to make default.
 
 ## On older androids
 
 * Install your replacement app.
-* Go to Settings -> Apps. 
+* Go to ***Settings -> Apps***. 
 * On the Apps screen, tap the three-dot menu on the top right.
-* In the menu that appears, tap Default Apps. A handful of default apps appears.
+* In the menu that appears, tap ***Default Apps***. A handful of default apps appears.
 * Tap the default app you wish to replace. Android will display a list of the apps you have installed on your device.
 * Tap the app you want to use as the default.
