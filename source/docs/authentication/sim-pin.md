@@ -1,4 +1,4 @@
-# Change the SIM PIN
+# Changing the SIM PIN
 
 The SIM card PIN code is meant to protect your data against unauthorised access. Each SIM you insert into a smartphone 
 has a PIN code that you need to enter in order to activate the card. Some mobile providers use standard PIN codes, like 

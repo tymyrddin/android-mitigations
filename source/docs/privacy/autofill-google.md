@@ -1,4 +1,4 @@
-# Put the kibosh on Autofill with Google
+# Putting the kibosh on Autofill with Google
 
 If you save things like credit card data on your Android device, that data ends up stored in your main Google account. 
 You see what data you have stored in your Google account, and delete it if you wish. 

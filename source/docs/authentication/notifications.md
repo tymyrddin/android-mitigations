@@ -1,4 +1,4 @@
-# Keep notifications off the lock screen
+# Keeping notifications off the lock screen
 
 Android displays app notifications on the lock screen. Anyone who happens to be looking (shoulder surfing) can also 
 see those notifications, even though your device is locked.

@@ -1,4 +1,4 @@
-# Shut down location history
+# Shutting down location history
 
 Even if you are not using any services that track your location, Android does. It uploads that information to Google 
 to store it in your Google account. The data is used to send you personalised maps and recommendations, and targeted 

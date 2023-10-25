@@ -1,4 +1,4 @@
-# Changing default applications
+# Changing default apps
 
 Pick the default app you wish to change, for example, for your bowser you can [pick one of these](browsers.md), or for swapping Google apps, [Simple Mobile Tools](https://www.simplemobiletools.com/)
 

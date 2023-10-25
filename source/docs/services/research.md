@@ -1,4 +1,4 @@
-# Research before installing apps
+# Researching before installing apps
 
 * Search for the app name on Google Play Store. If there are multiple apps with similar names and icons, most of them 
 are probably fake ones.

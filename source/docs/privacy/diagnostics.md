@@ -1,4 +1,4 @@
-# Turn off diagnostics
+# Turning off diagnostics
 
 The privacy settings contain an option to send diagnostic data to the phone manufacturer. Tapping this option pops up a 
 message explaining why you should let your device send unspecified types and amounts of data to the phone manufacturer 

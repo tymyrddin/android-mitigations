@@ -1,4 +1,4 @@
-# Revoke the prying big eyed activity controls
+# Revoking the prying big eyed activity controls
 
 > _The data saved in your account helps give you more personalized experiences across all Google services._
  

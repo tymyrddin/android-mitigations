@@ -1,4 +1,4 @@
-# Terminate ad personalisation
+# Terminating ad personalisation
 
 Google uses data it collects about you to offer personalised ads. Part of this is assigning you a personal 
 advertising ID that is used to accumulate data about you. This can be turned off. Apps can be told not to use that 

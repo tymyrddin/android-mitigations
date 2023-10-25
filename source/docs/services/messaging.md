@@ -1,4 +1,4 @@
-# Use a secure messaging service
+# Using secure messaging services
 
 Install a secure messanger app and make it the default SMS messenger.
 A secure messaging service is a critical tool for private and secure communications. In most countries, it is safe to assume that telecoms are recording all SMS message traffic.

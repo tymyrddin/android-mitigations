@@ -1,4 +1,4 @@
-# Use a VPN service
+# Using VPN services
 
 * Internet providers are collecting your browsing data and handing this over to third parties (US, UK, Australia, and much of Europe). 
 * Public Wi-Fi remains a serious threat with adversaries targeting unsuspecting users.

@@ -1,4 +1,4 @@
-# Change MAC address
+# Changing MAC address
 
 A MAC address identifies the device connected to a network and allows the network to track, restrict or allow access based on it. Routers identify and assign static IP addresses based on the MAC addresses of devices. Before you try to change the MAC address, you need to know the value that you want to use.
 

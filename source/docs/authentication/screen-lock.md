@@ -1,4 +1,4 @@
-# Set a password or PIN screen lock and a timeout
+# Setting a password or PIN screen lock and a timeout
 
 Without screen lock, anyone getting their hands on your device will have complete access to everything on it, and 
 you can not enable [on-device encryption](../data/encryption.md).

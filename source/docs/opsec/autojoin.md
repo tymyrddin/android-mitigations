@@ -1,4 +1,4 @@
-# Do not auto-join Wi-Fi networks
+# Not auto-joining Wi-Fi networks
 
 Auto join is a feature that allows your phone to automatically join any Wi-Fi network it already has the credentials 
 for, or open Wi-Fi networks, without having to ask you to do anything. This can be a time saver at home and at work. 

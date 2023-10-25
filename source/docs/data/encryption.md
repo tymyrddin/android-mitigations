@@ -1,4 +1,4 @@
-# Encrypt SD card
+# Encrypting SD cards
 
 [SD card encryption](https://www.samsung.com/au/support/mobile-devices/how-to-encrypt-decrypt-sd-card/) is a default 
 Android security feature. Enabling SD encryption is a very straightforward process, and many phones even have it 

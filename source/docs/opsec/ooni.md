@@ -1,7 +1,8 @@
-# Measure Internet Censorship
+# Measuring Internet Censorship
 
 The [OONI Probe](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) is a free app to measure 
 Internet Censorship. 
+
 With this app, you can examine the blocking of websites and instant messaging apps, measure your network's speed and 
 performance, and check whether systems that could be responsible for censorship and surveillance are in your network.
 

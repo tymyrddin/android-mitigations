@@ -1,4 +1,4 @@
-# Browse more safely
+# Browsing more safely
 
 Keyloggers and other malware can be installed via a web page script which exploits a browser vulnerability. The 
 program will automatically be launched when a user visits an infected site. Compromising a browser is relatively easy, 

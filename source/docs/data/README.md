@@ -1,4 +1,4 @@
 # Introduction
 
-* [Encrypt SD card](encryption.md)
+* [Encrypting SD cards](encryption.md)
 

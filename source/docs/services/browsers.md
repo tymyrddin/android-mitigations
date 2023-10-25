@@ -1,4 +1,4 @@
-# Secure browsers that protect your privacy
+# Browsers that protect your privacy
 
 * [DuckDuckGo Private Browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) you get an everyday private Internet browser that offers seamless protection while you search and browse, and access to tracking protection for emails you receive and apps you use. Many of these protections are not offered in most popular web browsers by default.
 * [Firefox Fast & Private Browser](https://play.google.com/store/apps/details?id=org.mozilla.firefox) - Data privacy and security practices may vary based on your use, region and age The developer provided this information and may update it over time.

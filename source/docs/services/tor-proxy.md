@@ -1,4 +1,4 @@
-# Use a Tor proxy
+# Using Tor proxies
 
 [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) is a free tor proxy app. It encrypts your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, private activities and relationships, and state security known as traffic analysis.
 

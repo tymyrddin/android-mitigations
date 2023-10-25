@@ -1,4 +1,4 @@
-# Remove unwanted apps
+# Removing unwanted apps
 
 Every app that exists on your device is a potential privacy and security problem. Google automatically grants every app permission to use the Internet, including [unwanted apps](unwanted-apps.md). This means that every single app on 
 your device can:
