@@ -14,7 +14,9 @@ Port forwarding or port mapping is a combined technique of:
   * Possibly accepting such packet(s) in a packet filter (firewall).
   * Forwarding the packet according to the routing table.
 
-SSH tunnels can be created in several ways using different kinds of port forwarding mechanisms. On Android you can use ConnectBot ([Google Play Store ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot), [F-Droid ConnectBot](https://f-droid.org/en/packages/org.connectbot/)), a traditional-style SSH client, providing command-line access to computers 
+SSH tunnels can be created in several ways using different kinds of port forwarding mechanisms. 
+
+On Android you can use ConnectBot ([Google Play Store ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot), [F-Droid ConnectBot](https://f-droid.org/en/packages/org.connectbot/)), a traditional-style SSH client, providing command-line access to computers 
 running SSH server software. A GUI interface is available for setting up connections. ConnectBot can run pretty much 
 all SSH commands, and fully supports persistent connections, key management, and port forward management.
 
