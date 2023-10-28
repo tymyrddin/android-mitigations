@@ -1,6 +1,6 @@
 # Threat awareness
 
-Attack vectors are methods or channels an attacker uses to gain access to a system or network, with the goal of delivering a payload or exploit. These are the most common mobile attack vectors, and what you can do to defend against them.
+These are currently the most common mobile threats:
 
 * [Common mobile malware](https://pap.tymyrddin.dev/docs/mobile/malware)
 * [Phishing](https://pap.tymyrddin.dev/docs/general/phishing)
