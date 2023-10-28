@@ -67,6 +67,7 @@ Other things are harder to cover. For example, each manufacturer has its own pri
    :caption: Malware
 
    docs/malware/README.md
+   docs/opsec/threats.md
    docs/malware/scanner.md
    docs/malware/clean-machine.md
 
@@ -77,7 +78,7 @@ Other things are harder to cover. For example, each manufacturer has its own pri
    :caption: Operations security
 
    docs/opsec/README.md
-   docs/opsec/vectors.md
+   docs/opsec/threats.md
    docs/opsec/juice-jack.md
    docs/opsec/autojoin.md
    docs/opsec/email-use.md

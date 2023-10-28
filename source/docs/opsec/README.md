@@ -2,7 +2,7 @@
 
 Intent is to make videos and posters, self-assessments, and simulations, to build a culture of security awareness and reduce cyber risk.
 
-* [Attack vector awareness](vectors.md)
+* [Threat awareness](threats.md)
 * [Not getting juice-jacked](juice-jack.md)
 * [Not auto-joining Wi-Fi networks](autojoin.md)
 * [Using email more securely](email-use.md)
