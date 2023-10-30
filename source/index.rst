@@ -70,6 +70,7 @@ Other things are harder to cover. For example, each manufacturer has its own pri
    docs/opsec/threats.md
    docs/malware/scanner.md
    docs/malware/clean-machine.md
+   docs/malware/ransomware.md
 
 .. toctree::
    :glob:
